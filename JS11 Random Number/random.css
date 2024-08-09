@@ -1,0 +1,19 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+#myButton{
+   padding: 5px 10px;
+   font-size: 5em;
+   border-radius: 5px;
+    
+}
+
+#myLabel{
+    font-size: 3em;
+}
+
+.Labels{
+    font-size: 3em;
+}
